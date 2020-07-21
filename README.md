@@ -10,7 +10,7 @@ The collected data can be found on [wetterkontor](https://www.wetterkontor.de/de
 
 ## Code
 **Python Version:** 3.8  
-**Packages:** pandas, numpy, os, matplotlib, seaborn, keras, scipy, sklearn
+**Packages:** pandas, numpy, os, matplotlib, seaborn, keras, scipy, sklearn, tensorflow
 
 ## Resources
 **Data preperation for weather data:**  https://www.kaggle.com/biphili/india-rainfall-kerala-flood  
