@@ -13,7 +13,7 @@ The collected data can be found on [wetterkontor](https://www.wetterkontor.de/de
 **Packages:** pandas, numpy, os, matplotlib, seaborn, keras, scipy, sklearn
 
 ## Resources
-**Data preperation for weather data:**  https://www.kaggle.com/biphili/india-rainfall-kerala-flood
+**Data preperation for weather data:**  https://www.kaggle.com/biphili/india-rainfall-kerala-flood  
 **LSTM:** https://github.com/danrustia11/WeatherLSTM   
 **Article:** https://www.rs-online.com/designspark/predicting-weather-using-lstm  
 **Further information on LSTM:**  
