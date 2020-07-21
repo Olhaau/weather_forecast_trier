@@ -6,7 +6,7 @@ In this project I wanted to investigate the weather of my hometown Trier in Germ
 The collected data can be found on [wetterkontor](https://www.wetterkontor.de/de/wetter/deutschland/monatswerte-station.asp).
 
 ## Calculated results of a LSTM forecast
-![text](https://github.com/Olhaau/weather_forecast_trier/blob/master/forecast.png)
+![result_forecast](https://github.com/Olhaau/weather_forecast_trier/blob/master/forecast.png)
 
 
 
