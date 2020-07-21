@@ -8,6 +8,10 @@ The collected data can be found on [wetterkontor](https://www.wetterkontor.de/de
 ## Calculated results of a LSTM forecast
 ![result_forecast](https://github.com/Olhaau/weather_forecast_trier/blob/master/forecast.png)
 
+## Code
+**Python Version:** 3.8  
+**Packages:** pandas, numpy, os, matplotlib, seaborn, keras, scipy, sklearn
+
 ## Resources
 **Data preperation for weather data:**  
 https://www.kaggle.com/biphili/india-rainfall-kerala-flood
