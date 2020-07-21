@@ -13,26 +13,19 @@ The collected data can be found on [wetterkontor](https://www.wetterkontor.de/de
 **Packages:** pandas, numpy, os, matplotlib, seaborn, keras, scipy, sklearn
 
 ## Resources
-**Data preperation for weather data:**  
-https://www.kaggle.com/biphili/india-rainfall-kerala-flood
+**Data preperation for weather data:**  https://www.kaggle.com/biphili/india-rainfall-kerala-flood
 
-**LSTM:**  
-https://www.rs-online.com/designspark/predicting-weather-using-lstm  
-https://github.com/danrustia11/WeatherLSTM  
-https://www.youtube.com/watch?v=h8v9--50mdU
+**LSTM:** https://github.com/danrustia11/WeatherLSTM   
+**Article:** https://www.rs-online.com/designspark/predicting-weather-using-lstm  
+**Further information on LSTM:**  
+https://www.youtube.com/watch?v=h8v9--50mdU  
 https://www.youtube.com/watch?v=H6du_pfuznE  
 https://github.com/krishnaik06/Stock-MArket-Forecasting/blob/master/Untitled.ipynb  
 https://www.kdnuggets.com/2018/11/keras-long-short-term-memory-lstm-model-predict-stock-prices.html  
 https://medium.com/@dhirajreddy13/stock-price-prediction-and-forecast-using-lstm-and-arima-52db753a23c7  
 
-**ARIMA:**  
-https://github.com/gmonaci/ARIMA/blob/master/time-series-analysis-ARIMA.ipynb
+**ARIMA:**  https://github.com/gmonaci/ARIMA/blob/master/time-series-analysis-ARIMA.ipynb
 
 <!--
 TODO:
-## Code
-...
-
-## Resources
-...
 -->
